@@ -1,0 +1,16 @@
+---
+title: "JoshAndPetesGitAndGitHub"
+date: 2026-01-07
+format: gfm
+editor: visual
+---
+
+# Intro
+
+Here's some *text* that **Malin** wants...
+
+```{r}
+10+20
+```
+
+## background
